@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+
+				#topbar {
+					width:1000px;
+					margin: 0 auto;
+					background-color:#AED6F1;
+					height: 50px;
+					overflow: hidden;
+					
+					
+				
+				
+				}
+				body{
+					margin:0;
+					padding:0;
+					text-align:center;
+					font-family:helvetica, arial, sans-serif;
+					
+				
+				
+				
+				}
+				#logo {
+				
+					margin-top:3px;
+					margin-left:10px;
+					width:100px;
+					float:left;
+					margin-right:8px;
+				
+				
+				
+				}
+				
+				
+				.topbar-menu {
+					
+					float: left;
+					color: #FDFDFD;
+					text-align: center;
+					padding: 14px 15px 0 15px;
+					
+					font-size: 17px;
+					height:36px;
+					
+				
+				}
+				.topbar-menu a:active{
+				
+					
+					text-decoration: none;
+					color:  white;
+				
+				
+				}
+				.topbar-menu a:hover{
+					background-color: #F1E10E1;
+					color: royalblue;
+					
+					
+				}
+				.mainpagetitle a{
+					padding:0px;
+					margin:0px;
+					float:center-left;
+					font-size:35px;
+					font-weight:strong;
+					text-align:center;
+					
+					
+					
+					
+					
+					
+					
+					
+					
+				}
