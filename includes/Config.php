@@ -7,5 +7,5 @@
     $db = mysqli_connect( $dbServername, $dbUsername, $dbPassword, $dbName );
 
 
-    echo "working"
+   // echo "working"
 ?>
